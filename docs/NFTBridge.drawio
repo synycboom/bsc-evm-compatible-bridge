@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T15:52:28.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.5.2" etag="9hSlzrAMRDTgeurfL8_f" type="github"><diagram id="OG6WafD0RB_81euWWMLE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-25T16:18:07.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="mNd09tYXsgqVb7TdHF8B" version="15.5.2" type="github">
+  <diagram id="OG6WafD0RB_81euWWMLE" name="Page-1">
+    <mxGraphModel dx="3786" dy="2234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OObLzYnrdSjX6yaadoP--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.021;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=24;startArrow=classic;startFill=1;" edge="1" parent="1" source="OObLzYnrdSjX6yaadoP--1" target="OObLzYnrdSjX6yaadoP--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OObLzYnrdSjX6yaadoP--1" value="Binance Smart Chain" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="140" width="430" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="OObLzYnrdSjX6yaadoP--2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="OObLzYnrdSjX6yaadoP--1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OObLzYnrdSjX6yaadoP--3" value="https://bifrost.monster" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="OObLzYnrdSjX6yaadoP--1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OObLzYnrdSjX6yaadoP--5" value="Ethereum" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="130" width="430" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="OObLzYnrdSjX6yaadoP--6" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="OObLzYnrdSjX6yaadoP--5">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OObLzYnrdSjX6yaadoP--7" value="https://bifrost.monster" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="OObLzYnrdSjX6yaadoP--5">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OObLzYnrdSjX6yaadoP--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=24;strokeColor=default;startArrow=classic;startFill=1;" edge="1" parent="1" source="OObLzYnrdSjX6yaadoP--8" target="OObLzYnrdSjX6yaadoP--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OObLzYnrdSjX6yaadoP--8" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;BSC&lt;/font&gt;&lt;/b&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/blockchain/Azure_Blockchain_Service.svg;" vertex="1" parent="1">
+          <mxGeometry x="490" y="233" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="OObLzYnrdSjX6yaadoP--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;startArrow=classic;startFill=1;strokeColor=default;" edge="1" parent="1" source="OObLzYnrdSjX6yaadoP--11" target="OObLzYnrdSjX6yaadoP--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OObLzYnrdSjX6yaadoP--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;startArrow=classic;startFill=1;strokeColor=default;" edge="1" parent="1" source="OObLzYnrdSjX6yaadoP--11" target="OObLzYnrdSjX6yaadoP--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OObLzYnrdSjX6yaadoP--11" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;Ethereum&lt;/b&gt;&lt;/font&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/blockchain/Azure_Blockchain_Service.svg;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="223" width="154" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="OObLzYnrdSjX6yaadoP--13" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="968.11" y="-90" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OObLzYnrdSjX6yaadoP--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;startArrow=classic;startFill=1;strokeColor=default;" edge="1" parent="1" source="OObLzYnrdSjX6yaadoP--14" target="OObLzYnrdSjX6yaadoP--13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1013.1099999999997" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OObLzYnrdSjX6yaadoP--14" value="&lt;b&gt;Core Server&lt;/b&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="950" y="220" width="126.22" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
