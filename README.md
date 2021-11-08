@@ -9,6 +9,9 @@ There are 4 repositories
 - https://github.com/synycboom/bsc-evm-compatible-bridge-app
 
 ### DEMO
+- https://bifrost-bridge.web.app/
+
+### Video Demo
 - https://youtu.be/C8HMUdBe8w0
 - https://youtu.be/YKeRaXvzGOo
 
